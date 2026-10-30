@@ -1,0 +1,6 @@
+image_id_1,image_id_2,reason
+ISIC_9766600,ISIC_2252215,"same photo under two lesion ids: pHash distance 0, same file size (27751 bytes), same age, sex, site and diagnosis; checked by eye"
+ISIC_3846189,ISIC_1599277,"same photo under two lesion ids: pHash distance 0, same file size (33349 bytes), same age, sex, site and diagnosis; checked by eye"
+ISIC_5997076,ISIC_4823638,"same photo under two lesion ids: pHash distance 0, same file size (24911 bytes), same age, sex, site and diagnosis; checked by eye"
+ISIC_6221334,ISIC_1643848,"same photo under two lesion ids: pHash distance 0, same file size (24176 bytes), same age, sex, site and diagnosis; checked by eye"
+ISIC_0185358,ISIC_4303795,"same photo under two lesion ids: pHash distance 0, same file size (29972 bytes), same age, sex, site and diagnosis; checked by eye"

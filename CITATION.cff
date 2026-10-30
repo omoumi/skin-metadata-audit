@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Citation metadata for this software."
+title: "skin-metadata-audit: a metadata audit toolkit for skin-lesion image datasets"
+type: software
+authors:
+  - family-names: "Omoumi"
+    given-names: "Mohammad Hossein"
+    orcid: "https://orcid.org/0009-0001-7888-0824"
+version: "0.1.0"
+date-released: "2026-10-30"
+license: GPL-3.0-only
+repository-code: "https://github.com/omoumi/skin-metadata-audit"
+keywords:
+  - dermatology
+  - skin lesion
+  - metadata
+  - missing data
+  - shortcut learning
+  - dataset audit

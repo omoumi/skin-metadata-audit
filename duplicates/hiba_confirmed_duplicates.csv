@@ -1,0 +1,5 @@
+image_id_1,image_id_2,reason
+ISIC_9600955,ISIC_3386975,"same image, not byte-identical (same file size 46528 bytes, pixel correlation 1.0, pHash distance 0); conflicting metadata: age 50 vs 35, trunk vs lower extremity"
+ISIC_7076637,ISIC_3844971,"same image, not byte-identical (same file size 1077165 bytes, pixel correlation 1.0, pHash distance 0); same age, sex, site and diagnosis"
+ISIC_1143976,ISIC_8172964,"same photo at two resolutions (28356 vs 1040045 bytes); same age, sex, site and diagnosis"
+ISIC_3535471,ISIC_3124231,"same photo at two resolutions (38274 vs 983837 bytes); same two patient ids as the previous pair"

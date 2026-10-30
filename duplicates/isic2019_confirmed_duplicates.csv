@@ -1,0 +1,12 @@
+image_id_1,image_id_2,reason
+ISIC_0062259,ISIC_0063226,identical file (md5)
+ISIC_0065588,ISIC_0065639,identical file (md5)
+ISIC_0067502,ISIC_0067980,identical file (md5); conflicting labels MEL vs NV
+ISIC_0012127_downsampled,ISIC_0012970_downsampled,identical file (md5)
+ISIC_0060997,ISIC_0072076,identical file (md5)
+ISIC_0054023,ISIC_0064545,identical file (md5)
+ISIC_0063659,ISIC_0071073,identical file (md5)
+ISIC_0057272,ISIC_0072042,identical file (md5)
+ISIC_0063304,ISIC_0064285,identical file (md5)
+ISIC_0064007,ISIC_0071850,identical file (md5)
+ISIC_0069013,ISIC_0071017,identical file (md5); conflicting labels NV vs MEL

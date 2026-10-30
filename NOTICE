@@ -1,0 +1,29 @@
+skin-metadata-audit
+Copyright (C) 2026 Mohammad Hossein Omoumi
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, version 3 of the License (GPL-3.0-only).
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program (file LICENSE). If not, see <https://www.gnu.org/licenses/>.
+
+Scope
+-----
+The license above covers the code in this repository: skinaudit/, tests/,
+validation/ and notebooks/. Every source file carries the SPDX identifier GPL-3.0-only and the
+copyright line above.
+
+It does not cover any dataset. The datasets audited here (ISIC 2019, ISIC 2020,
+SLICE-3D, MILK10k, PAD-UFES-20, and the ISIC Archive collections HIBA, HAM10000,
+PROVe-AI, Consecutive biopsies 2020 and Melanoma and nevus with histopathology) are not
+included in this repository and keep their own licenses and terms of use. The
+tables, figures and sample images produced from a dataset are published in that
+dataset's own repository under a content license that respects the dataset's
+terms (see LICENSE-CONTENT.md there).
+
+Source: https://github.com/omoumi/skin-metadata-audit
